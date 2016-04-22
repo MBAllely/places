@@ -10,7 +10,7 @@
 ## Setup/Installation Requirements
 
 * Clone this repository from [gitHub](https://github.com/MBAllely/places)
-* Open terminal and run the command 'composer install' in the address_book folder
+* Open terminal and run the command 'composer install' in the new project folder
 * In the terminal, change directories to the web folder, run the command 'php -S localhost:8000' to run your local server
 * Open browser and navigate to http://localhost8000
 * Must be connected to the internet for bootstrap and images to render
